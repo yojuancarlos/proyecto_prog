@@ -1,4 +1,5 @@
 import {ApplicationConfig, App} from './application';
+// borre esto
 
 export * from './application';
 
